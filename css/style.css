@@ -488,11 +488,11 @@ a:hover {
 }
 
 .navbar-b.navbar-reduce .nav-link {
-  color: rgb (200, 152, 179);
+  color: rgb(200, 152, 179);
 }
 
 .navbar-b.navbar-reduce .nav-link:before {
-  background-color: rgb (200, 152, 179);
+  background-color: rgb(200, 152, 179);
 }
 
 .navbar-b.navbar-reduce .nav-link:hover {
